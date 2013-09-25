@@ -1,0 +1,7 @@
+{
+    "redis_hostname": "127.0.0.1",
+    "redis_port": "6379",
+    "redis_namespaces": ["castor:logs", "castor:nginx"],
+    "es_hostname": "127.0.0.1",
+    "es_port": "9200"
+}
